@@ -11,13 +11,12 @@ Copyrighght: (c) 2019 Masumi
 
 ## 青ネギ
 
-![青ネギ](./green_negi.jpg)
+![青ネギ]()
 
 ## <span id="white">白ネギ</span>
 
-![](white_negi.jpg)
 
 ## ドキュメント
 
-[CCN02CFSDFNKL1208.pdf](ネギ.pdf)
+[CCN02CFSDFNKL1208.pdf](CCN02CFSDFNKL1208.pdf)
 [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
