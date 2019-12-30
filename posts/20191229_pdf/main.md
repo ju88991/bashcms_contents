@@ -1,19 +1,19 @@
 ---
-Keywords: ネギ
+Keywords: ピザ
 Copyrighght: (c) 2019 Masumi
 ---
 
-# ネギの惑星
+# ピザの惑星
 
-ネギ!ネギ!ネギ!ネギ!ネギ!ネギ!ネギ
+ピザ！ピザ！ピザ！ピザ！
 
-* [白ネギへジャンプ] (#white)
+* [ピザ2へジャンプ] (#white)
 
-## 青ネギ
+## ピザ
 
-![青ネギ]()
+![ピザ](./piza.png)
 
-## <span id="white">白ネギ</span>
+## <span id="white">ピザ２</span>
 
 
 ## ドキュメント
